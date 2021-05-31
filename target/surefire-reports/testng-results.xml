@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63240" started-at="2021-05-31T01:08:57 IST" finished-at="2021-05-31T01:10:01 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63240" started-at="2021-05-31T01:08:57 IST" finished-at="2021-05-31T01:10:01 IST">
+      <class name="sampleJenkinsProject.JenkinsTest">
+        <test-method status="PASS" signature="sampleJenkinsTest(java.lang.String)[pri:0, instance:sampleJenkinsProject.JenkinsTest@731a74c]" name="sampleJenkinsTest" duration-ms="63107" started-at="2021-05-31T01:08:57 IST" finished-at="2021-05-31T01:10:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleJenkinsTest -->
+      </class> <!-- sampleJenkinsProject.JenkinsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
